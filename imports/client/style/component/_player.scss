@@ -1,0 +1,24 @@
+.player{
+align-items: center;
+display: flex;
+justify-content: space-between;
+}
+
+.player__name{
+font-weight: bold;
+font-size: 1.8rem;
+
+}
+
+.player__status{
+font-style: italic;
+font-size: 1.3rem;
+font-weight: 300;
+
+
+}
+.player__action{
+
+flex-shrink: 0;
+
+}
