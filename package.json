@@ -13,13 +13,11 @@
     "jquery": "^3.4.1",
     "meteor-node-stubs": "^1.0.0",
     "numeral": "^2.0.6",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
     "react-flip-move": "^3.0.4"
   },
-  "engines":{
-  "node":"12.14.0"
-
+  "engines": {
+    "node": "12.14.0"
   }
-  
 }
